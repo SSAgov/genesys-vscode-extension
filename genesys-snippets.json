@@ -1,0 +1,1267 @@
+"New Atlassian Page": {
+  "prefix": "!!atlassian",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "    <head>",
+    "        <meta charset=\"UTF-8\">",
+    "        <title>Atlassian Page Template</title>",
+    "        <!-- https://www.atlassian.design/components/ -->",
+    "        <link rel=\"stylesheet\" href=\"https://unpkg.com/@atlaskit/css-reset@latest\"/>",
+    "        <link rel=\"stylesheet\" href=\"https://unpkg.com/@atlaskit/reduced-ui-pack@latest\"/>",
+    "    </head>",
+    "    <body>",
+    "        <h1>Atlassian Page Template</h1>",
+    "        <p>[INSERT YOUR CONTENT]</p>",
+    "    </body>",
+    "</html>"
+  ],
+  "description": "New Atlassian Page"
+},
+
+"New Bootstrap 3 Page": {
+  "prefix": "!!bs3",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "  <head>",
+    "    <meta charset=\"utf-8\">",
+    "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "    <title>Bootstrap 3 Page Template</title>",
+    "    <!-- https://getbootstrap.com/docs/3.3/components/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">",
+    "  </head>",
+    "  <body>",
+    "    <h1>Basic Bootstrap 3 Template</h1>",
+    "    <p>[INSERT PAGE CONTENT]</p>",
+    "    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"></script>",
+    "    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Bootstrap 3 Page"
+},
+
+"New Bootstrap 4 Page": {
+  "prefix": "!!bs4",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "  <head>",
+    "    <meta charset=\"utf-8\">",
+    "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "    <title>Bootstrap 4 Page Template</title>",
+    "    <!-- https://getbootstrap.com/docs/4.0/components/alerts/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css\">",
+    "  </head>",
+    "  <body>",
+    "    <h1>Bootstrap 4 Page Template</h1>",
+    "    <p>[INSERT PAGE CONTENT</p>",
+    "    <script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\"></script>",
+    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js\"></script>",
+    "    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js\"></script>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Bootstrap 4 Page"
+},
+
+"New Bootstrap 5 Page": {
+  "prefix": "!!bs5",
+  "body": [
+    "<!doctype html>",
+    "<html lang=\"en\">",
+    "  <head>",
+    "    <meta charset=\"utf-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">",
+    "    <title>Bootstrap 5 Page Template</title>",
+    "    <!-- https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css\">",
+    "  </head>",
+    "  <body>",
+    "    <h1>Hello, world!</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "    <script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\"></script>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js\"></script>",
+    "    <script src=\"https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js\"></script>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Bootstrap 5 Page"
+},
+
+"New Bulma Page": {
+  "prefix": "!!bulma",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html>",
+    "  <head>",
+    "    <meta charset=\"utf-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "    <title>Bulma Page Template</title>",
+    "    <!-- https://bulma.io/documentation/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.0/css/bulma.min.css\">",
+    "    <script defer src=\"https://use.fontawesome.com/releases/v5.3.1/js/all.js\"></script>",
+    "  </head>",
+    "  <body>",
+    "  <section class=\"section\">",
+    "    <div class=\"container\">",
+    "      <h1 class=\"title\">Bulma Page Template</h1>",
+    "      <p class=\"subtitle\">[INSERT CONTENT HERE]</p>",
+    "    </div>",
+    "  </section>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Bulma Page"
+},
+
+"New Foundation Page": {
+  "prefix": "!!foundation",
+  "body": [
+    "<!doctype html>",
+    "<html class=\"no-js\" lang=\"en\">",
+    "  <head>",
+    "    <meta charset=\"utf-8\" />",
+    "    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
+    "    <title>Foundation Page Template</title>",
+    "    <!-- https://get.foundation/sites/docs/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/css/foundation.min.css\">",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/js/foundation.min.js\"></script>",
+    "  </head>",
+    "  <body>",
+    "    <h1>Foundation Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Foundation Page"
+},
+
+"New Ionic Page": {
+  "prefix": "!!ionic",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "    <title>Ionic Page Template</title>",
+    "    <!-- https://ionicframework.com/docs/components -->",
+    "    <script type=\"module\" src=\"https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.esm.js\"></script>",
+    "    <script nomodule src=\"https://cdn.jsdelivr.net/npm/@ionic/core/dist/ionic/ionic.js\"></script>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@ionic/core/css/ionic.bundle.css\"/>",
+    "</head>",
+    "<body>",
+    "    <h1>Ionic Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New Ionic Page"
+},
+
+"New Material Design Page": {
+  "prefix": "!!material",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html class=\"mdc-typography\">",
+    "  <head>",
+    "    <meta charset=\"utf-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">",
+    "    <title>Material Design Page Template</title>",
+    "    <!-- https://material.io/develop/web -->",
+    "    <link rel=\"stylesheet\" href=\"https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css\">",
+    "  </head>",
+    "  <body>",
+    "    <h1 class=\"mdc-typography--display1\">Material Design Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Material Design Page"
+},
+
+"New Material Design Lite Page": {
+  "prefix": "!!material-lite",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <title>Material Design Lite PageTemplate</title>",
+    "    <!-- https://getmdl.io/components/index.html -->",
+    "    <link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\">",
+    "    <link rel=\"stylesheet\" href=\"https://code.getmdl.io/1.3.0/material.indigo-pink.min.css\">",
+    "    <script defer src=\"https://code.getmdl.io/1.3.0/material.min.js\"></script>",
+    "</head>",
+    "<body>",
+    "   <h1>Material Design Lite Page Template</h1>",
+    "   <p>[INSERT CONTENT HERE]</p>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New Material Design Lite Page"
+},
+
+"New Materialize Page": {
+  "prefix": "!!materialize",
+  "body": [
+    "<!DOCTYPE html>",
+    "  <html>",
+    "    <head>",
+    "      <title>Materialize Page Template</title>",
+    "      <!-- https://materializecss.com/ -->",
+    "      <link href=\"http://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\">",
+    "      <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css\">",
+    "      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\"/>",
+    "    </head>",
+    "    <body>",
+    "      <h1>Materialize Page Template</h1>",
+    "      <p>[INSERT CONTENT HERE]</p>",
+    "      <script src=\"https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js\"></script>",
+    "    </body>",
+    "  </html>"
+  ],
+  "description": "New Materialize Page"
+},
+
+"New Microsoft Fabric Page": {
+  "prefix": "!!fabric",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <title>Microsoft Fabric Page Template</title>",
+    "    <!-- https://developer.microsoft.com/en-us/fluentui#/controls/web -->",
+    "    <link rel=\"stylesheet\" href=\"https://static2.sharepointonline.com/files/fabric/office-ui-fabric-core/11.0.0/css/fabric.min.css\"/>",
+    "</head>",
+    "<body>",
+    "  <h1>Microsoft Fabric Page Template</h1>",
+    "  <p>[INSERT CONTENT HERE]</p>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New Microsoft Fabric Page"
+},
+
+"New PaperCSS Page": {
+  "prefix": "!!paper",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
+    "    <title>PaperCSS Page Template</title>",
+    "    <!-- https://www.getpapercss.com/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://unpkg.com/papercss@1.7.0/dist/paper.min.css\">",
+    "</head>",
+    "<body>",
+    "    <div class=\"paper container\">",
+    "        <h1>PaperCSS Page Template</h1>",
+    "        <p>[INSERT CONTENT HERE]</p>",
+    "    </div>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New PaperCSS Page"
+},
+
+"New Reveal Presentation": {
+  "prefix": "!!reveal",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "    <head>",
+    "        <title>Presentation Page Template</title>",
+    "        <!-- https://revealjs.com/ -->",
+    "        <link rel=\"stylesheet\" href=\"http://cdn.rawgit.com/hakimel/reveal.js/3.5.0/css/reveal.css\">",
+    "        <link rel=\"stylesheet\" href=\"http://cdn.rawgit.com/hakimel/reveal.js/3.5.0/css/theme/black.css\">",
+    "    </head>",
+    "    <body>",
+    "        <div class=\"reveal\">",
+    "            <div class=\"slides\">",
+    "                <section>Slide 1</section>",
+    "                <section>Slide 2</section>",
+    "                <section>Slide 3</section>",
+    "            </div>",
+    "        </div>",
+    "        <script src=\"http://cdn.rawgit.com/hakimel/reveal.js/3.5.0/js/reveal.js\"></script>",
+    "        <script>",
+    "            Reveal.initialize();",
+    "        </script>",
+    "    </body>",
+    "</html>"
+  ],
+  "description": "New Reveal Presentation"
+},
+
+"New Semantic UI Page": {
+  "prefix": "!!semantic",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <title>Semantic UI Page Template</title>",
+    "    <!-- https://semantic-ui.com/elements/button.html -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.css\">",
+    "</head>",
+    "<body>",
+    "    <h1>Semantic UI Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/semantic-ui@2.4.2/dist/semantic.min.js\"></script>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New Semantic UI Page"
+},
+
+
+"New Tailwind CSS Page": {
+  "prefix": "!!tailwind",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "    <title>Tailwind Page Template</title>",
+    "    <!-- https://tailwindcss.com/ -->",
+    "    <link href=\"https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css\" rel=\"stylesheet\">",
+    "</head>",
+    "<body>",
+    "    <h1>Tailwind Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New Tailwind CSS Page"
+},
+
+"New Sitemap": {
+  "prefix": "!!sitemap",
+  "body": [
+    "<!doctype html>",
+    "",
+    "<html lang=\"en\">",
+    "",
+    "<head>",
+    "	<meta charset=\"utf-8\">",
+    "	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
+    "	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">",
+    "	<title>Sitemap</title>",
+    "	<link rel=\"stylesheet\" type=\"text/css\" media=\"screen, print\" href=\"https://github.com/SSAgov/genesys/components/sitemap/sitemap.css\" />",
+    "</head>",
+    "",
+    "<body>",
+    "	<h1>Sitemap for [Insert Name]</h1>",
+    "	<br />",
+    "	<div class=\"sitemap\">",
+    "		<nav class=\"primaryNav\">",
+    "			<ul>",
+    "				<li id=\"home\"><a href=\"insert-page-name.html.html\">Home</a></li>",
+    "				<li><a href=\"insert-page-name.html\">Section 1</a>",
+    "					<ul>",
+    "						<li><a href=\"insert-page-name.html\">Page 1</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 2</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 3</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 4</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Etc...</a></li>",
+    "					</ul>",
+    "				</li>",
+    "				<li><a href=\"insert-page-name.html\">Section 2</a>",
+    "					<ul>",
+    "						<li><a href=\"insert-page-name.html\">Page 1</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 2</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 3</a>",
+    "							<ul>",
+    "								<li><a href=\"insert-page-name.html\">Page 3A</a></li>",
+    "								<li><a href=\"insert-page-name.html\">Page 3B</a></li>",
+    "								<li><a href=\"insert-page-name.html\">Etc...</a></li>",
+    "							</ul>",
+    "						</li>",
+    "						<li><a href=\"insert-page-name.html\">Page 4</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Etc...</a></li>",
+    "					</ul>",
+    "				</li>",
+    "				<li><a href=\"insert-page-name.html\">Section 3</a>",
+    "					<ul>",
+    "						<li><a href=\"insert-page-name.html\">Page 1</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 2</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 3</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Page 4</a></li>",
+    "						<li><a href=\"insert-page-name.html\">Etc...</a></li>",
+    "					</ul>",
+    "				</li>",
+    "				<li><a href=\"insert-page-name.html\">Section 4</a>",
+    "					<ul>",
+    "						<li><a href=\"insert-page-name.html\">Offices</a>",
+    "							<ul>",
+    "								<li><a href=\"insert-page-name.html\">Contact Form</a>",
+    "									<ul>",
+    "										<li><a href=\"insert-page-name.html\">Request Quote</a></li>",
+    "										<li><a href=\"insert-page-name.html\">Supplier Information</a></li>",
+    "										<li><a href=\"insert-page-name.html\">Media Relations</a></li>",
+    "									</ul>",
+    "								</li>",
+    "								<li><a href=\"insert-page-name.html\">Locations</a></li>",
+    "							</ul>",
+    "						</li>",
+    "					</ul>",
+    "				</li>",
+    "				<li><a href=\"insert-page-name.html\">Etc...</a></li>",
+    "			</ul>",
+    "		</nav>",
+    "	</div> <!-- end sitemap -->",
+    "</body>",
+    "",
+    "</html>"
+  ],
+  "description": "New Sitemap"
+},
+
+"New UIKit Page": {
+  "prefix": "!!uikit",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <title>UI Kit Page Template</title>",
+    "    <!-- https://getuikit.com/docs/accordion -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/uikit@3.5.7/dist/css/uikit.min.css\" />",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.5.7/dist/js/uikit.min.js\"></script>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.5.7/dist/js/uikit-icons.min.js\"></script>",
+    "</head>",
+    "<body>",
+    "    <h1>UI Kit Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New UIKit Page"
+},
+
+"New USWDS Page": {
+  "prefix": "!!uswds",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html>",
+    "",
+    "<head>",
+    "    <meta charset=\"utf-8\" />",
+    "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />",
+    "    <title>USWDS Page Template</title>",
+    "    <!-- https://designsystem.digital.gov/components/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/uswds/2.8.1/css/uswds.min.css\" />",
+    "</head>",
+    "",
+    "<body>",
+    "    <h1>USWDS Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/uswds/2.8.1/js/uswds.min.js\"></script>",
+    "</body>",
+    "",
+    "</html>"
+  ],
+  "description": "New US Web Design System Page"
+},
+
+"New Vue.js Page": {
+  "prefix": "!!vue",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html>",
+    "",
+    "<head>",
+    "  <title>Vue Page Template</title>",
+    "  <!-- https://vuejs.org/v2/guide/ -->",
+    "  <script src=\"https://unpkg.com/vue\"></script>",
+    "</head>",
+    "",
+    "<body>",
+    "  <div id=\"app\">",
+    "    <h1>\\{{ greeting }}</h1>",
+    "    <p>\\{{ content }}</p>",
+    "  </div>",
+    "",
+    "  <script>",
+    "    new Vue({",
+    "      el: '#app',",
+    "      data: {",
+    "        greeting: 'Welcome to your Vue.js app!',",
+    "        content: '[INSERT CONTENT HERE'",
+    "      }",
+    "    })",
+    "  </script>",
+    "</body>",
+    "",
+    "</html>"
+  ],
+  "description": "New Vue.js Page"
+},
+
+"New WebSlides Presentation": {
+  "prefix": "!!webslides",
+  "body": [
+    "<!doctype html>",
+    "<html>",
+    "",
+    "<head>",
+    "    <title>WebSlides Presentation</title>",
+    "    <!-- https://github.com/webslides/WebSlides/wiki -->",
+    "</head>",
+    "",
+    "<body>",
+    "",
+    "    <!-- PUT WEBSLIDES PRESENTATION CONTENT HERE -->",
+    "",
+    "    <article id=\"webslides\">",
+    "",
+    "        <!-- First slide -->",
+    "        <section class=\"bg-apple aligncenter\">",
+    "            <h1>My Slide #1</h1>",
+    "        </section>",
+    "",
+    "        <!-- Second slide -->",
+    "        <section class=\"bg-apple aligncenter\">",
+    "            <h1>My Slide #2</h1>",
+    "        </section>",
+    "",
+    "        <!-- Third slide -->",
+    "        <section class=\"bg-apple aligncenter\">",
+    "            <h1>My Slide #3</h1>",
+    "        </section>",
+    "",
+    "        <!-- etc. -->",
+    "    </article>",
+    "",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/webslides@1.5.0/static/js/webslides.min.js\"></script>",
+    "    <script>",
+    "        window.ws = new WebSlides();",
+    "    </script>",
+    "</body>",
+    "",
+    "</html>"
+  ],
+  "description": "New WebSlides Presentation"
+},
+
+"Genesys: Analytics": {
+    "prefix": "gns-add-analytics",
+    "body": [
+      "<!-- START: Google Analytics with AutoTrack ============================================= -->",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js\"></script>",
+      "<script>",
+      "        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){",
+      "        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),",
+      "        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)",
+      "        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');",
+      "        ga('create', '${1:Enter your Google Analytics Tracking ID}', 'auto');",
+      "        ga('require', 'eventTracker');",
+      "        ga('require', 'impressionTracker');",
+      "        ga('require', 'maxScrollTracker');",
+      "        ga('require', 'mediaQueryTracker');",
+      "        ga('require', 'pageVisibilityTracker');",
+      "        ga('send', 'pageview');",
+      "        ${0:/* Add additional tracking requests here. See https://developers.google.com/analytics/devguides/collection/analyticsjs/pages for more info. */}",
+      "</script>",
+      "<!-- END: Google Analytics with AutoTrack =============================================== -->"
+    ],
+    "description": "Genesys Analytics"
+  },
+
+  "Genesys: Add Full Version": {
+    "prefix": "gns-add-genesys-full",
+    "body": [
+      "<!-- START: Add Genesys (Full) Design Kit =========================== -->",
+      "<script defer src=\"https://use.fontawesome.com/releases/v5.0.3/js/all.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.min.css\">",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.es5.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/introjs.min.css\"/>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/intro.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"../../components/polypage/skins/default.css\"/>",
+      "<script src=\"../../components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+      "<script src=\"../../components/polypage/lib/events.polypage.jquery.js\"></script>",
+      "<script src=\"../../components/polypage/lib/cookie.polypage.jquery.js\"></script>",
+      "<script src=\"../../components/polypage/lib/gui.polypage.jquery.js\"></script>",
+      "<script src=\"../../components/polypage/lib/keyboard.polypage.jquery.js\"></script>",
+      "<script type=\"text/javascript\" charset=\"utf-8\">",
+      "  $(document).ready(function() {",
+      "    $('body').polypage();",
+      "  });",
+      "</script>",
+      "<script src=\"https://github.com/SSAgov/genesys/components/ab-testing/simpleab.min.js\"></script>",
+      "<script>",
+      "   $(document).ready(function(){",
+      "        $.simpleAB({",
+      "           classCount: 2, // The number of SimpleAB \"pages\" you're using. ",
+      "           persist: false, // Whether or not to persist the stored page in a cookie. ",
+      "           className: \"ab-test\" // The name of the class that names SimpleAB pages. ",
+      "        });",
+      "   });",
+      "</script>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gremlins.js/0.1.0/gremlins.min.js\"></script>",
+      "<link href=\"https://github.com/SSAgov/genesys/components/genesys/genesys.css\" rel=\"stylesheet\" />",
+      "<script src=\"https://github.com/SSAgov/genesys/components/genesys/genesys.js\"></script>",
+      "<!-- END:   Add Genesys (Full) Design Kit =========================== -->"
+    ],
+    "description": "Add all Genesys prototyping libraries to this page"
+  },
+
+  "Genesys: Add Lite Version": {
+    "prefix": "gns-add-genesys-lite",
+    "body": [
+      "<!-- START: Add Genesys (Lite) Design Kit =========================== -->",
+      "<link href=\"https://github.com/SSAgov/genesys/components/genesys/genesys.css\" rel=\"stylesheet\" />",
+      "<script src=\"https://github.com/SSAgov/genesys/components/genesys/genesys.js\"></script>",
+      "<!-- END:   Add Genesys Design Kit =========================== -->"
+    ],
+    "description": "Add the Genesys(Lite) Design Kit to this page"
+  },
+
+  "Genesys: Add Annotation & Walkthrough Functionality": {
+    "prefix": "gns-add-walkthru",
+    "body": [
+      "<!-- START: Add Intro.js Library =========================== -->",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/introjs.min.css\"/>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/intro.min.js\"></script>",
+      "<!-- END:   Add Intro.js Library =========================== -->"
+    ],
+    "description": "Add the Intro.js library to this page"
+  },
+
+  "Genesys: Add User Roles Functionality": {
+    "prefix": "gns-add-roles",
+    "body": [
+      "<!-- START: Add User Roles (PolyPage) Library =========================== -->",
+      "<link rel=\"stylesheet\" href=\"https://github.com/SSAgov/genesys/components/polypage/skins/default.css\"/>",
+      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/events.polypage.jquery.js\"></script>",
+      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/cookie.polypage.jquery.js\"></script>",
+      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/gui.polypage.jquery.js\"></script>",
+      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/keyboard.polypage.jquery.js\"></script>",
+      "<script type=\"text/javascript\" charset=\"utf-8\">",
+      "  $(document).ready(function() {",
+      "    $('body').polypage();",
+      "  });",
+      "</script>",
+      "<!-- END:   Add User Roles (PolyPage) Library =========================== -->"
+    ],
+    "description": "Add the User Roles (PolyPage library) functionality to this page"
+  },
+
+  "Genesys: A/B Testing Library": {
+    "prefix": "gns-add-ab-testing",
+    "body": [
+      "<!-- START: A/B Testing Library ============================ -->",
+      "<script src=\"https://github.com/SSAgov/genesys/components/ab-testing/simpleab.min.js\"></script>  ",
+      "<!-- END:   A/B Testing Library ============================ -->"
+    ],
+    "description": "Add the Genesys A/B Testing Library to your page's HEAD section.\n"
+  },
+
+  "Genesys: A/B Testing Configuration": {
+    "prefix": "gns-add-ab-testing-config",
+    "body": [
+      "<!-- START: Simple A/B Testing Configuration -->",
+      "<script>",
+      "        $(document).ready(function(){",
+      "        $.simpleAB({",
+      "        classCount: ${1:2}, // The number of SimpleAB \"pages\" you're using. ",
+      "        persist: ${2:false}, // Whether or not to persist the stored page in a cookie. ",
+      "        className: \"${3:ab-test}\" // The name of the class that names SimpleAB pages. ",
+      "        });",
+      "        });",
+      "</script>",
+      "<!-- END: Simple A/B Testing Configuration -->"
+    ],
+    "description": "Insert the Genesys A/B Testing Configuration right before your ending </BODY> tag./n"
+  },
+
+  "Genesys: Insert A/B Test Scenarios": {
+    "prefix": "gns-insert-ab-test-scenarios",
+    "body": [
+      "<!-- START: A/B Testing Scenarios -->",
+      "<div class=\"ab-test-${1:1}\">${2:INSERT A/B TEST ITEM #1}</div>",
+      "<div class=\"ab-test-${3:2}\">${4:INSERT A/B TEST ITEM #2}</div>",
+      "<!-- END:   A/B Testing Scenarios -->"
+    ],
+    "description": "Genesys: Insert A/B Test Scenarios"
+  },
+
+  "Genesys: Add Page Testing": {
+    "prefix": "gns-add-page-testing",
+    "body": [
+      "<!-- START: Automatic Page Testing (Gremlins) -->",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gremlins.js/0.1.0/gremlins.min.js\"></script>",
+      "<!-- END: Automatic Page Testing (Gremlins) -->"
+    ],
+    "description": "Genesys: Add Automatic Page Testing (Gremlins)"
+  },
+
+  "Genesys: Atlassian Design": {
+    "prefix": "gns-add-atlas",
+    "body": [
+      "<!-- START: Atlassian Design ==================================================== -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/@atlaskit/css-reset@latest\"/>",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/@atlaskit/reduced-ui-pack@latest\"/>",
+      "<!-- END:   Atlassian Design ==================================================== -->"
+    ],
+    "description": "Add the Atlassian Design System (Atlaskit)."
+  },
+
+  "Genesys: Bootstrap 3": {
+    "prefix": "gns-add-bootstrap-3",
+    "body": [
+      "<!-- START: Bootstrap 3 ==================================================== -->",
+      "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\"/>",
+      "<!-- END:   Bootstrap 3 ==================================================== -->"
+    ],
+    "description": "Add the Bootstrap 3 CSS."
+  },
+
+  "Genesys: Bootstrap 4": {
+    "prefix": "gns-add-bootstrap-4",
+    "body": [
+      "<!-- START: Bootstrap 4 ==================================================== -->",
+      "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\"/>",
+      "<!-- END:   Bootstrap 4 ==================================================== -->"
+    ],
+    "description": "Add the Bootstrap 4 CSS."
+  },
+
+  "Genesys: Tachyons CSS Toolkit": {
+    "prefix": "gns-add-tachyons",
+    "body": [
+      "<!-- START: Tachyons CSS Toolkit ==================================================== -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css\"/>",
+      "<!-- END:   Tachyons CSS Toolkit ==================================================== -->"
+    ],
+    "description": "Add the Tachyons CSS Toolkit to your page's HEAD section.\n\nSee Tachyons.io for full reference info."
+  },
+
+  "Genesys: Tailwind CSS": {
+    "prefix": "gns-add-tailwind",
+    "body": [
+      "<!-- START: Tailwind CSS ==================================================== -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css\"/>"
+    ],
+    "description": "Add the Tailwind CSS library to your page's HEAD section.\n\nSee TailwindCSS.com for full reference info."
+  },
+
+  "Genesys: Basscss Low-Level CSS Toolkit": {
+    "prefix": "gns-add-basscss",
+    "body": [
+      "<!-- START: Basscss Low-Level Toolkit ============================================= -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/basscss@8.0.2/css/basscss.min.css\"/>",
+      "<!-- END:   Basscss Low-Level Toolkit ============================================= -->"
+    ],
+    "description": "Add the Basscss CSS Low-Level Toolkit to your page's HEAD section.\n\nSee Basscss.com for full reference info."
+  },
+
+  "Genesys: Bulma CSS Framework": {
+    "prefix": "gns-add-bulma",
+    "body": [
+      "<!-- START: Bulma CSS Framework ============================================= -->",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css\"/>",
+      "<!-- END:   Bulma CSS Framework ============================================= -->"
+    ],
+    "description": "Add the Bulma CSS Framework to your page's HEAD section.\n\nSee https://bulma.io/ for full reference info."
+  },
+
+  "Genesys: Fractures Atomic CSS Toolkit": {
+    "prefix": "gns-add-fractures",
+    "body": [
+      "<!-- START: Fractures CSS Toolkit ============================================= -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/fractures@1.3.0/dist/fractures.prefixed.min.css\"/>",
+      "<!-- END:   Fractures CSS Toolkit ============================================= -->"
+    ],
+    "description": "Add the Fractures Atomic CSS Toolkit to your page's HEAD section.\n\nSee https://fractures.space for full reference info."
+  },
+
+  "Genesys: Persistence (Mavo)": {
+    "prefix": "gns-add-persistence",
+    "body": [
+      "<!-- START: Mavo Library ============================== -->",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.min.css\">",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.es5.min.js\"></script>",
+      "<!-- END:   Mavo Library ============================== -->"
+    ],
+    "description": "Add the Mavo persistence library to your page's HEAD section.\n\nSee https://mavo.io/ for full reference info."
+  },
+
+  "Genesys: Modulz CSS Library": {
+    "prefix": "gns-add-modulz",
+    "body": [
+      "<!-- START: Modulz CSS Library ============================== -->",
+      "<link rel=\"stylesheet\" href=\"https://s3.amazonaws.com/modulz/modulz.min.css\"/>",
+      "<!-- END:   Modulz CSS Library ============================== -->"
+    ],
+    "description": "Add the Modulz CSS Library to your page's HEAD section.\n\nSee github.com/modulz/modulz for full reference info."
+  },
+
+  "Genesys: Paper CSS Library": {
+    "prefix": "gns-add-paper",
+    "body": [
+      "<!-- START: Paper CSS Library ============================== -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/papercss/dist/paper.min.css\"/>",
+      "<!-- END:   Paper CSS Library ============================== -->"
+    ],
+    "description": "Add the Paper CSS Library to your page's HEAD section.\n\nSee www.getpapercss.com for full reference info."
+  },
+
+  "Genesys: Turret CSS Framework": {
+    "prefix": "gns-add-turret",
+    "body": [
+      "<!-- START: Turret CSS Framework ============================== -->",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/4.0.0/turret.min.css\"/>",
+      "<!-- END:   Turret Atomic CSS Framework ============================== -->"
+    ],
+    "description": "Add the Turret CSS Framework to your page's HEAD section.\n\nSee TurretCSS.com for full reference info."
+  },
+
+  "Genesys: Font Awesome": {
+    "prefix": "gns-add-font-awesome",
+    "body": [
+      "<!-- START: Font Awesome ============================== -->",
+      "<script defer src=\"https://use.fontawesome.com/releases/v5.0.3/js/all.js\"></script>",
+      "<!-- END:   Font Awesome ============================== -->"
+    ],
+    "description": "Add Font Awesome 5 library in HEAD section."
+  },
+
+  "Genesys: Add Font Awesome Icon": {
+    "prefix": "gns-icon",
+    "body": [
+      "<i class=\"${1:INSERT ICON CLASS NAME FROM https://fontawesome.io/icons}\"></i>",
+    ],
+    "description": "Genesys: Add Font Awesome Icon\n\nSee https://fontawesome.io/icons/\n\n"
+  },
+
+  "Genesys: Add Charting & Diagraming": {
+    "prefix": "gns-add-diagram-library",
+    "body": [
+      "<!-- START: Charting & Diagramming Library -->",
+      "<script src=\"https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js\"></script>",
+      "<script>mermaid.initialize({startOnLoad:true});</script>",
+      "<!-- END:   Charting & Diagramming Library -->"
+    ],
+    "description": "Genesys: Add the Charting & Diagramming Library (Mermaid)\n\nSee https://mermaidjs.github.io/usage.html for more info.\n\n"
+  },
+
+  "Genesys: Insert Diagram": {
+    "prefix": "gns-insert-diagram",
+    "body": [
+      "<!-- START: Diagram/Chart -->",
+      "<div class=\"mermaid\">",
+      "    ${0:INSERT CHART DEFINITION}",
+      "</div>",
+      "<!-- END: Diagram/Chart -->"
+    ],
+    "description": "Genesys: Insert a Flowchart or Diagram"
+  },
+
+  "Genesys: Animation Library": {
+    "prefix": "gns-add-animation",
+    "body": [
+      "<!-- START: Animate.css & AniJS Libraries ============================== -->",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css\">",
+      "<link rel=\"stylesheet\" href=\"https://anijs.github.io/lib/anicollection/anicollection.css\">",
+      "<script src=\"https://anijs.github.io/lib/anijs/anijs-min.js\"></script>",
+      "<!-- END:   Animate.css & AniJS Libraries ============================== -->"
+    ],
+    "description": "Add animation to your page.\n\nInsert this right before your ending </BODY> tag.\n\nSee Animate.css and AniJS for full reference info."
+  },
+
+  "Genesys: Image Placeholder": {
+    "prefix": "gns-stub-image",
+    "body": [
+      "<!-- START: Image Placeholder ================================================================= -->",
+      "<img src=\"https://satyr.io/?width=${1:100}&height=${2:100}&text=${0:Placeholder}&texture=cross\" />",
+      "<!-- END:   Image Placeholder ================================================================= -->",
+    ],
+    "description": "Genesys: Image Placeholder"
+  },
+
+  "Genesys: Block Placeholder": {
+    "prefix": "gns-stub-block",
+    "body": [
+      "<!-- START: Genesys Block Placeholder ================================================================= -->",
+      "<div style=\"width: ${1:100%};height: ${2:auto};padding:${3:2px 4px};background-color:${4:silver};color:${5:black};font-size:${6:inherit}\">${0:Your Content Here}</div>",
+      "<!-- END: Genesys Block Placeholder ================================================================= -->",
+    ],
+    "description": "Genesys: Block Placeholder"
+  },
+
+  "Genesys: Header": {
+    "prefix": "gns-header",
+    "body": [
+      "<!-- START: Genesys Header ======= -->",
+      "<h${1:5}>${0:Header Level} ${1:5}</h${1:5}>",
+      "<!-- END:   Genesys Header ======= -->"
+    ],
+    "description": "Genesys: Header Level (1-6)"
+  },
+
+  "Genesys: Link": {
+    "prefix": "gns-link",
+    "body": [
+      "<!-- START: Genesys Link === -->",
+      "<a href=\"${1:#}\">${0:Link}</a>",
+      "<!-- END:   Genesys Link === -->",
+    ],
+    "description": "Genesys: Link"
+  },
+
+  "Genesys: Button": {
+    "prefix": "gns-button",
+    "body": [
+      "<!-- START: Genesys Button ======================================= -->",
+      "<button onclick=\"location.href='${1:#}';\">${0:Do Something}</button>",
+      "<!-- END :  Genesys Button ======================================= -->"
+    ],
+    "description": "Genesys: Button"
+  },
+
+  "Genesys: Add Notation Library": {
+    "prefix": "gns-add-note-library",
+    "body": [
+      "<!-- START: Genesys Notation Library ======================================= -->",
+      "<link rel=\"stylesheet\" href=\"../components/annotation/jquery.postitall.css\">",
+      "<script src=\"../components/annotation/jquery.postitall.js\"></script>",
+      "<!-- END :  Genesys Notation Library ======================================= -->"
+    ],
+    "description": "Genesys: Add Notation Library/nMust be added after jQuery. Place this right before the closing BODY tag."
+  },
+
+  "Genesys: Add Note": {
+    "prefix": "gns-add-note",
+    "body": [
+      "<!-- START: Genesys Note ======================================= -->",
+      "<span class=\"gns-note\">${0:Type your note.}</span>",
+      "<!-- END :  Genesys Note ======================================= -->"
+    ],
+    "description": "Genesys: Add Note"
+  },
+
+  "Genesys: Add Site Map Page": {
+    "prefix": "gns-sitemap-add-page",
+    "body": [
+      "<li><a href=\"${1:/insert-page-name}\">${0:Page Name}</a></li>"
+    ],
+    "description": "Genesys: Add Note"
+  },
+
+  "Genesys: Add Virtual Page": {
+    "prefix": "gns-virtual-page",
+    "body": [
+      "<!-- START: Genesys Virtual Page =============================== -->",
+      "<div id=\"${1:INSERT-VIRTUAL-PAGE-ID}\">",
+      "    ${0:INSERT VIRTUAL PAGE CONTENT}",
+      "</div>",
+      "<!-- END: Genesys Virtual Page ================================= -->"
+    ],
+    "description": "Genesys: Add Virtual Page"
+  },
+
+  "Genesys: Single Ease Question (SEQ)": {
+    "prefix": "gns-feedback-seq",
+    "body": [
+      "<form class=\"gns-user-feedback\">",
+      "    <h2>Your Feedback</h2>",
+      "    <p>Your feedback is immensely important. Please provide as much info as possible. Thank you.</p>",
+      "    <fieldset>",
+      "        <p>Overall, this task was?</p>",
+      "        <label for=\"${1:page-name}-seq\">Very<br />Difficult<br />1<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"${1:page-name}-seq\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"${1:page-name}-seq\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"${1:page-name}-seq\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"${1:page-name}-seq\"><br /><br />5<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"5\" />",
+      "        </label>",
+      "        <label for=\"${1:page-name}-seq\"><br /><br />6<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"6\" />",
+      "        </label>",
+      "        <label for=\"${1:page-name}-seq\">Very<br />Easy<br />7<br />",
+      "            <input type=\"radio\" name=\"${1:page-name}-seq\" value=\"7\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <br />",
+      "    <label for=\"${1:page-name}-seq\">Comments:</label><br />",
+      "    <textarea id=\"${1:page-name}-seq-comment\" rows=\"10\"></textarea>",
+      "</form>"
+    ],
+    "description": "Genesys: Single Ease Question (SEQ)\n\nUse this after each task."
+  },
+
+  "Genesys: System Usability Scale (SUS)": {
+    "prefix": "gns-feedback-sus",
+    "body": [
+      "<form class=\"gns-user-feedback gns-user-feedback--sus\">",
+      "<h2>Your Feedback</h2>",
+      "    <fieldset>",
+      "        <p>1. I think that I would like to use this system frequently.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-1\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-1\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-1\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-1\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-1\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>2. I found the system unnecessarily complex.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-2\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-2\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-2\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-2\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-2\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>3. I thought the system was easy to use.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-3\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-3\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-3\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-3\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-3\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>4. I think that I would need the support of a technical person to be able to use this system.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-4\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-4\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-4\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-4\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-4\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>5. I found the various functions in the system were well integrated.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-5\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-5\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-5\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-5\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-5\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>6. I thought there was too much inconsistency in this system.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-6\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-6\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-6\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-6\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-6\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>7. I would imagine that most people would learn to use this system very quickly.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-7\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-7\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-7\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-7\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-7\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>8. I found the system very cumbersome to use.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-8\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-8\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-8\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-8\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-8\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>9. I felt very confident using the system.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-9\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-9\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-9\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-9\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-9\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <p>10. I needed to learn a lot of things before I could get going with this system.</p>",
+      "        <label for=\"\">Strongly<br />Disagree<br />1<br />",
+      "            <input type=\"radio\" name=\"sus-10\" value=\"1\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />2<br />",
+      "            <input type=\"radio\" name=\"sus-10\" value=\"2\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />3<br />",
+      "            <input type=\"radio\" name=\"sus-10\" value=\"3\" />",
+      "        </label>",
+      "        <label for=\"\"><br /><br />4<br />",
+      "            <input type=\"radio\" name=\"sus-10\" value=\"4\" />",
+      "        </label>",
+      "        <label for=\"\">Strongly<br />Agree<br />5<br />",
+      "            <input type=\"radio\" name=\"sus-10\" value=\"5\" />",
+      "        </label>",
+      "    </fieldset>",
+      "    <br />",
+      "    <label for=\"sus-comments\">Final Comments:</label><br />",
+      "    <textarea id=\"sus-comments\"rows=\"10\"></textarea>",
+      "</form>"
+    ],
+    "description": "Genesys: System Usability Scale (SUS)\n\nAdd this as the last page in your prototype."
+  },
+
+  "Genesys: Task Load Index (TLX)": {
+    "prefix": "gns-feedback-tlx",
+    "body": [
+      "<form class=\"gns-user-feedback gns-user-feedback--tlx\">",
+      "    <h2>Your Feedback</h2>",
+      "    <fieldset>",
+      "        <datalist id=\"gns-feedback-tlx-values\">",
+      "            <option value=\"1\" label=\"Very Low\"></option>",
+      "            <option value=\"2\"></option>",
+      "            <option value=\"3\"></option>",
+      "            <option value=\"4\"></option>",
+      "            <option value=\"5\"></option>",
+      "            <option value=\"6\"></option>",
+      "            <option value=\"7\"></option>",
+      "            <option value=\"8\"></option>",
+      "            <option value=\"9\"></option>",
+      "            <option value=\"10\"></option>",
+      "            <option value=\"11\"></option>",
+      "            <option value=\"12\"></option>",
+      "            <option value=\"13\"></option>",
+      "            <option value=\"14\"></option>",
+      "            <option value=\"15\"></option>",
+      "            <option value=\"16\"></option>",
+      "            <option value=\"17\"></option>",
+      "            <option value=\"18\"></option>",
+      "            <option value=\"19\"></option>",
+      "            <option value=\"20\"></option>",
+      "            <option value=\"21\" label=\"Very High\"></option>",
+      "        </datalist>",
+      "        <label for=\"page-1-tlx-mental-demand\">How mentally demanding was the task?</label>",
+      "        <br />",
+      "        <div><span>Very Low</span> <input id=\"page-1-tlx-mental-demand\" type=\"range\" min=\"1\" max=\"21\" step=\"1\" list=\"gns-feedback-tlx-values\" /> <span>Very High</span></div>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <label for=\"page-1-tlx-physical-demand\">How physically demanding was the task?</label>",
+      "        <br />",
+      "        <div><span>Very Low</span> <input id=\"page-1-tlx-physical-demand\" type=\"range\" min=\"1\" max=\"21\" step=\"1\" list=\"gns-feedback-tlx-values\" /> <span>Very High</span></div>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <label for=\"page-1-tlx-temporal-demand\">How hurried or rushed was the pace of the task?</label>",
+      "        <br />",
+      "        <div><span>Very Low</span> <input id=\"page-1-tlx-temporal-demand\" type=\"range\" min=\"1\" max=\"21\" step=\"1\" list=\"gns-feedback-tlx-values\" /> <span>Very High</span></div>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <label for=\"page-1-tlx-performance\">How successful were you in accomplishing what you were asked to do?</label>",
+      "        <br />",
+      "        <div><span>Perfect</span> <input id=\"page-1-tlx-performance\" type=\"range\" min=\"1\" max=\"21\" step=\"1\" list=\"gns-feedback-tlx-values\" /> <span>Failure</span></div>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <label for=\"page-1-tlx-effort\">How hard did you have to work to accomplish your level of performance?</label>",
+      "        <br />",
+      "        <div><span>Very Low</span> <input id=\"page-1-tlx-effort\" type=\"range\" min=\"1\" max=\"21\" step=\"1\" list=\"gns-feedback-tlx-values\" /> <span>Very High</span></div>",
+      "    </fieldset>",
+      "    <fieldset>",
+      "        <label for=\"page-1-tlx-frustration\">How insecure, discouraged, irritated, stressed, and annoyed were you?</label>",
+      "        <br />",
+      "        <div><span>Very Low</span> <input id=\"page-1-tlx-frustration\" type=\"range\" min=\"1\" max=\"21\" step=\"1\" list=\"gns-feedback-tlx-values\" /> <span>Very High</span></div>",
+      "    </fieldset>",
+      "</form>"
+    ],
+    "description": "Genesys: Task Load Index (TLX)\n\nUse this after each task in a complex or mission-critical product or task."
+  }
