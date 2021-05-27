@@ -148,3 +148,19 @@ gns-text-center | Center text
 gns-text-right | Right align text
 gns-float-left | Push the element to the left as far as possible
 gns-float-right | Push the element to the right as far as possible
+
+----------------------------------------------------
+
+**Building the Extension**
+--------------------------
+
+For first time builders, make sure you have [Node.js](https://nodejs.org/en/) installed, then run:
+
+`npm install -g vsce`
+
+To build the extension:
+
+1. If you have made changes, update the `package.json` file version number appropriately, using [Semantic Versioning](https://semver.org/) rules.
+2. Run `vsce package`
+
+
