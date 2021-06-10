@@ -20,6 +20,7 @@ Trigger | Description | Documentation
 !!fabric | Microsoft Fabric page | https://developer.microsoft.com/en-us/fluentui#/controls/web
 !!foundation| Foundation page | https://get.foundation/sites/docs/
 !!ionic | Ionic page | https://ionicframework.com/docs/components
+!!mds | M-Design System page | https://m-docs.org/
 !!material | Material Design page | https://material.io/components
 !!material-lite | Material Design Lite page | https://getmdl.io/components/index.html
 !!materialize |  Materialize page | https://materializecss.com/
@@ -45,6 +46,7 @@ gns-add-bulma | Add the Bulma CSS Framework
 gns-add-diagram-library | Add the Flowchart & Diagramming Library (Mermaid)
 gns-add-font-awesome | Add the Font Awesome icon library
 gns-add-fractures | Add the Fractures Atomic CSS Toolkit
+gns-add-mdesignsystem | Add the M-Design System Web Component library
 gns-add-modulz | Add the Modulz CSS library
 gns-add-paper | Add the Paper CSS library
 gns-add-page-testing | Add automated page testing using Gremlins
