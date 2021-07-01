@@ -1,4 +1,4 @@
-Genesys Snippets
+![Genesys logo](https://github.com/SSAgov/genesys-vscode-extension/blob/main/genesys.png) Genesys Snippets
 ================
 
 A set of Genesys Snippets for Visual Studio Code.
