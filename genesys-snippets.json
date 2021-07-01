@@ -162,6 +162,33 @@
   "description": "New Ionic Page"
 },
 
+"New Material Design Bootstrap Page": {
+  "prefix": "!!mdb",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "    <head>",
+    "        <meta charset=\"UTF-8\">",
+    "        <title>New Material Design Bootstrap Page Template</title>",
+    "        <!-- https://mdbootstrap.com/ -->",
+    "        <!-- Font Awesome -->",
+    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css\" rel=\"stylesheet\" />",
+    "        <!-- Google Fonts -->",
+    "        <link href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap\" rel=\"stylesheet\" />",
+    "        <!-- MDB -->",
+    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css\" rel=\"stylesheet\" />",
+    "    </head>",
+    "    <body>",
+    "        <h1>Material Design Bootstrap Page Template</h1>",
+    "        <p>[INSERT YOUR CONTENT]</p>",
+    "        <!-- MDB -->",
+    "        <script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js\"></script>",
+    "    </body>",
+    "</html>"
+  ],
+  "description": "New Material Design Bootstrap Page"
+},
+
 "New M-Design System Page": {
   "prefix": "!!mds",
   "body": [
@@ -760,6 +787,35 @@
       "<!-- END:   Bootstrap 4 ==================================================== -->"
     ],
     "description": "Add the Bootstrap 4 CSS."
+  },
+
+  "Genesys: Material Design Bootstrap": {
+    "prefix": "gns-add-mdbootstrap",
+    "body": [
+      "<!-- START: Material Design Bootstrap ==================================== -->",
+      "<!-- Font Awesome -->",
+      "<link",
+      "  href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css\"",
+      "  rel=\"stylesheet\"",
+      "/>",
+      "<!-- Google Fonts -->",
+      "<link",
+      "  href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap\"",
+      "  rel=\"stylesheet\"",
+      "/>",
+      "<!-- MDB -->",
+      "<link",
+      "  href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css\"",
+      "  rel=\"stylesheet\"",
+      "/>",
+      "<!-- MDB -->",
+      "<script",
+      "  type=\"text/javascript\"",
+      "  src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js\"",
+      "></script>",
+      "<!-- END: Material Design Bootstrap ====================================== -->"
+    ],
+    "description": "Genesys: Add Material Design Bootstrap"
   },
 
   "Genesys: M-Design System": {
