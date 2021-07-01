@@ -3,7 +3,7 @@
 	"icon": "genesys.png",
 	"displayName": "Genesys Snippets",
 	"description": "Social Security Administration Genesys Snippets -- Rapidly design and build web pages",
-	"version": "1.1.0",
+	"version": "1.11.0",
 	"publisher": "SSAgov",
 	"repository": "https://github.com/SSAgov/genesys-vscode-extension",
 	"engines": {
