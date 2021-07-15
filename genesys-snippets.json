@@ -848,10 +848,18 @@
     "body": [
       "<!-- M-Design System: https://m-docs.org/ -->",
       "<link href=\"https://unpkg.com/m-@1.2.4/dist/min.css\" rel=\"stylesheet\">",
-      "<script src=\"https://unpkg.com/m-@1.2.4/dist/min.js\" defer></script>",
-      ""
+      "<script src=\"https://unpkg.com/m-@1.2.4/dist/min.js\" defer></script>"
     ],
-    "description": "Genesys: M-Design System"
+    "description": "Add the M-Design System to your page's HEAD section.\n\nSee mdocs.org for full reference info."
+  },
+
+  "Genesys: Pure Design System": {
+    "prefix": "gns-add-pure",
+    "body": [
+      "<!-- Pure.css : https://purecss.io/ -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/purecss@2.0.6/build/pure-min.css\" integrity=\"sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5\" crossorigin=\"anonymous\">"
+    ],
+    "description": "Add the Pure.css Design System to your page's HEAD section.\n\nSee purecss.io for full reference info."
   },
 
   "Genesys: Pure Design System": {
