@@ -20,6 +20,7 @@ Trigger | Description | Documentation
 !!fabric | Microsoft Fabric page | https://developer.microsoft.com/en-us/fluentui#/controls/web
 !!foundation| Foundation page | https://get.foundation/sites/docs/
 !!ionic | Ionic page | https://ionicframework.com/docs/components
+!!pure | Pure.css page | https://purecss.io/
 !!mdb | Material Design Bootstrap page | https://mdbootstrap.com/
 !!mds | M-Design System page | https://m-docs.org/
 !!material | Material Design page | https://material.io/components
@@ -51,12 +52,14 @@ gns-add-mdbootstrap | Add the Material Design Bootstrap library
 gns-add-mdesignsystem | Add the M-Design System Web Component library
 gns-add-modulz | Add the Modulz CSS library
 gns-add-paper | Add the Paper CSS library
+gns-add-pure | Add the Pure.css library
 gns-add-page-testing | Add automated page testing using Gremlins
 gns-add-persistence | Add the Persistence library (Mavo)
 gns-add-roles | Add the User Roles (PolyPage) library
 gns-add-tachyons | Add the Tachyons CSS Toolkit
 gns-add-tailwin | Add the Tailwind CSS framework
 gns-add-turret | Add the Turret CSS Framework
+gns-add-uilang | Add the UILang library
 gns-add-walkthru | Add Intro.js library
 
 **Site Maps**
