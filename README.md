@@ -59,6 +59,7 @@ gns-add-roles | Add the User Roles (PolyPage) library
 gns-add-tachyons | Add the Tachyons CSS Toolkit
 gns-add-tailwin | Add the Tailwind CSS framework
 gns-add-turret | Add the Turret CSS Framework
+gns-add-uilang | Add the UILang library
 gns-add-walkthru | Add Intro.js library
 
 **Site Maps**

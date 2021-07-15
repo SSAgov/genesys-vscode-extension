@@ -862,6 +862,15 @@
     "description": "Add the Pure.css Design System to your page's HEAD section.\n\nSee purecss.io for full reference info."
   },
 
+  "Genesys: Pure Design System": {
+    "prefix": "gns-add-pure",
+    "body": [
+      "<!-- Pure.css : https://purecss.io/ -->",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/purecss@2.0.6/build/pure-min.css\" integrity=\"sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5\" crossorigin=\"anonymous\">"
+    ],
+    "description": "Add the Pure.css Design System to your page's HEAD section.\n\nSee purecss.io for full reference info."
+  },
+
   "Genesys: Tachyons CSS Toolkit": {
     "prefix": "gns-add-tachyons",
     "body": [
@@ -879,6 +888,15 @@
       "<link rel=\"stylesheet\" href=\"https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css\"/>"
     ],
     "description": "Add the Tailwind CSS library to your page's HEAD section.\n\nSee TailwindCSS.com for full reference info."
+  },
+
+  "Genesys: Add UILang Library": {
+    "prefix": "gns-add-uilang",
+    "body": [
+      "\"<!-- UILang ============================================= -->\",",
+      "\"<script src=\\\"path-to-uilang.js\\\"></script>\","
+    ],
+    "description": "Add the UILang Library to your page's HEAD section.\n\nSee http://uilang.com/ for download and documentation."
   },
 
   "Genesys: Basscss Low-Level CSS Toolkit": {
