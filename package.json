@@ -15,7 +15,7 @@
 	"contributes": {
 		"snippets": [
 			{
-				"language": "javascript",
+				"language": "html",
 				"path": "genesys-snippets.json"
 			}
 		]
