@@ -358,8 +358,8 @@
     "    <head>",
     "        <title>Presentation Page Template</title>",
     "        <!-- https://revealjs.com/ -->",
-    "        <link rel=\"stylesheet\" href=\"http://cdn.rawgit.com/hakimel/reveal.js/3.6.0/css/reveal.css\">",
-    "        <link rel=\"stylesheet\" href=\"http://cdn.rawgit.com/hakimel/reveal.js/3.6.0/css/theme/black.css\">",
+    "        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.css\">",
+    "        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/theme/black.min.css\">",
     "    </head>",
     "    <body>",
     "        <div class=\"reveal\">",
@@ -369,7 +369,7 @@
     "                <section>Slide 3</section>",
     "            </div>",
     "        </div>",
-    "        <script src=\"http://cdn.rawgit.com/hakimel/reveal.js/3.6.0/js/reveal.js\"></script>",
+    "        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.js\"></script>",
     "        <script>",
     "            Reveal.initialize();",
     "        </script>",
@@ -662,8 +662,8 @@
       "<script defer src=\"https://use.fontawesome.com/releases/v5.0.3/js/all.js\"></script>",
       "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.min.css\">",
       "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.es5.min.js\"></script>",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/introjs.min.css\"/>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/intro.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/introjs.min.css\"/>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/intro.min.js\"></script>",
       "<link rel=\"stylesheet\" href=\"../../components/polypage/skins/default.css\"/>",
       "<script src=\"../../components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
       "<script src=\"../../components/polypage/lib/events.polypage.jquery.js\"></script>",
@@ -708,8 +708,8 @@
     "prefix": "gns-add-walkthru",
     "body": [
       "<!-- START: Add Intro.js Library =========================== -->",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/introjs.min.css\"/>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/2.7.0/intro.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/introjs.min.css\"/>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/intro.min.js\"></script>",
       "<!-- END:   Add Intro.js Library =========================== -->"
     ],
     "description": "Add the Intro.js library to this page"
@@ -993,7 +993,7 @@
     "prefix": "gns-add-diagram-library",
     "body": [
       "<!-- START: Charting & Diagramming Library -->",
-      "<script src=\"https://unpkg.com/mermaid@7.1.0/dist/mermaid.min.js\"></script>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.5/mermaid.min.js\"></script>",
       "<script>mermaid.initialize({startOnLoad:true});</script>",
       "<!-- END:   Charting & Diagramming Library -->"
     ],
