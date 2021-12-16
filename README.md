@@ -74,12 +74,12 @@ Trigger | Description
 ------- | -----------
 gns-insert-diagram | Insert a flowchart or diagram
 
-**Design Stubs & Placeholders**
+**Design Placeholders**
 
 Trigger | Description
 ------- | -----------
-gns-stub-block | Generic Block placeholder
-gns-stub-image | Image placeholder
+gns-placeholder-block | Generic Block placeholder
+gns-placeholder-image | Image placeholder
 
 **Common UI Elements**
 

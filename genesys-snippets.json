@@ -1025,7 +1025,7 @@
   },
 
   "Genesys: Image Placeholder": {
-    "prefix": "gns-stub-image",
+    "prefix": "gns-placeholder-image",
     "body": [
       "<!-- START: Image Placeholder ================================================================= -->",
       "<img src=\"https://satyr.io/?width=${1:100}&height=${2:100}&text=${0:Placeholder}&texture=cross\" />",
@@ -1035,7 +1035,7 @@
   },
 
   "Genesys: Block Placeholder": {
-    "prefix": "gns-stub-block",
+    "prefix": "gns-placeholder-block",
     "body": [
       "<!-- START: Genesys Block Placeholder ================================================================= -->",
       "<div style=\"width: ${1:100%};height: ${2:auto};padding:${3:2px 4px};background-color:${4:silver};color:${5:black};font-size:${6:inherit}\">${0:Your Content Here}</div>",
