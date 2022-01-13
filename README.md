@@ -47,7 +47,6 @@ gns-add-basscss | Add the Basscss CSS Low-Level Toolkit
 gns-add-bulma | Add the Bulma CSS Framework
 gns-add-diagram-library | Add the Flowchart & Diagramming Library (Mermaid)
 gns-add-font-awesome | Add the Font Awesome icon library
-gns-add-fractures | Add the Fractures Atomic CSS Toolkit
 gns-add-mdbootstrap | Add the Material Design Bootstrap library
 gns-add-mdesignsystem | Add the M-Design System Web Component library
 gns-add-modulz | Add the Modulz CSS library

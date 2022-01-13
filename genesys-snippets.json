@@ -55,14 +55,14 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
     "    <title>Bootstrap 4 Page Template</title>",
     "    <!-- https://getbootstrap.com/docs/4.0/components/alerts/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.0/css/bootstrap.min.css\">",
+    "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.1/css/bootstrap.min.css\">",
     "  </head>",
     "  <body>",
     "    <h1>Bootstrap 4 Page Template</h1>",
     "    <p>[INSERT PAGE CONTENT</p>",
     "    <script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\"></script>",
     "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js\"></script>",
-    "    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.0/js/bootstrap.min.js\"></script>",
+    "    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.1/js/bootstrap.min.js\"></script>",
     "  </body>",
     "</html>"
   ],
@@ -79,12 +79,12 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">",
     "    <title>Bootstrap 5 Page Template</title>",
     "    <!-- https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css\">",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css\">",
     "  </head>",
     "  <body>",
     "    <h1>Hello, world!</h1>",
     "    <p>[INSERT CONTENT HERE]</p>",
-    "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/js/bootstrap.bundle.min.js",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js",
     "  </body>",
     "</html>"
   ],
@@ -101,8 +101,8 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
     "    <title>Bulma Page Template</title>",
     "    <!-- https://bulma.io/documentation/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.2/css/bulma.min.css\">",
-    "    <script defer src=\"https://use.fontawesome.com/releases/v5.15.3/js/all.js\"></script>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">",
+    "    <script defer src=\"https://use.fontawesome.com/releases/v5.15.4/js/all.js\"></script>",
     "  </head>",
     "  <body>",
     "  <section class=\"section\">",
@@ -128,8 +128,8 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" />",
     "    <title>Foundation Page Template</title>",
     "    <!-- https://get.foundation/sites/docs/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/css/foundation.min.css\">",
-    "    <script src=\"https://cdn.jsdelivr.net/npm/foundation-sites@6.6.3/dist/js/foundation.min.js\"></script>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/css/foundation.min.css\">",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/foundation-sites@6.7.4/dist/js/foundation.min.js\"></script>",
     "  </head>",
     "  <body>",
     "    <h1>Foundation Page Template</h1>",
@@ -198,17 +198,17 @@
     "        <title>New Material Design Bootstrap Page Template</title>",
     "        <!-- https://mdbootstrap.com/ -->",
     "        <!-- Font Awesome -->",
-    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css\" rel=\"stylesheet\" />",
+    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css\" rel=\"stylesheet\" />",
     "        <!-- Google Fonts -->",
     "        <link href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap\" rel=\"stylesheet\" />",
     "        <!-- MDB -->",
-    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css\" rel=\"stylesheet\" />",
+    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.css\" rel=\"stylesheet\" />",
     "    </head>",
     "    <body>",
     "        <h1>Material Design Bootstrap Page Template</h1>",
     "        <p>[INSERT YOUR CONTENT]</p>",
     "        <!-- MDB -->",
-    "        <script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js\"></script>",
+    "        <script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.js\"></script>",
     "    </body>",
     "</html>"
   ],
@@ -225,8 +225,8 @@
     "<head>",
     "    <meta charset=\"utf-8\">",
     "    <title>M-Design System Basic Page Template</title>",
-    "    <link href=\"https://unpkg.com/m-@1.2.4/dist/min.css\" rel=\"stylesheet\">",
-    "    <script src=\"https://unpkg.com/m-@1.2.4/dist/min.js\" defer></script>",
+    "    <link href=\"https://unpkg.com/m-@1.4.0/dist/min.css\" rel=\"stylesheet\">",
+    "    <script src=\"https://unpkg.com/m-@1.4.0/dist/min.js\" defer></script>",
     "</head>",
     "",
     "<!-- See https://m-docs.org/ for M-Design System documentation -->",
@@ -337,7 +337,7 @@
     "    <meta http-equiv=\"X-UA-Compatible\" content=\"ie=edge\">",
     "    <title>PaperCSS Page Template</title>",
     "    <!-- https://www.getpapercss.com/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://unpkg.com/papercss@1.8.2/dist/paper.min.css\">",
+    "    <link rel=\"stylesheet\" href=\"https://unpkg.com/papercss@1.8.3/dist/paper.min.css\">",
     "</head>",
     "<body>",
     "    <div class=\"paper container\">",
@@ -411,7 +411,7 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
     "    <title>Tailwind Page Template</title>",
     "    <!-- https://tailwindcss.com/ -->",
-    "    <link href=\"https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css\" rel=\"stylesheet\">",
+    "    <link href=\"https://unpkg.com/tailwindcss@^2.2.19/dist/tailwind.min.css\" rel=\"stylesheet\">",
     "</head>",
     "<body>",
     "    <h1>Tailwind Page Template</h1>",
@@ -434,7 +434,7 @@
     "	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
     "	<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge,chrome=1\">",
     "	<title>Sitemap</title>",
-    "	<link rel=\"stylesheet\" type=\"text/css\" media=\"screen, print\" href=\"https://github.com/SSAgov/genesys/components/sitemap/sitemap.css\" />",
+    "	<link rel=\"stylesheet\" type=\"text/css\" media=\"screen, print\" href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/sitemap/sitemap.css\" />",
     "</head>",
     "",
     "<body>",
@@ -513,9 +513,9 @@
     "    <meta charset=\"UTF-8\">",
     "    <title>UI Kit Page Template</title>",
     "    <!-- https://getuikit.com/docs/accordion -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/uikit@3.6.22/dist/css/uikit.min.css\" />",
-    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.6.22/dist/js/uikit.min.js\"></script>",
-    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.6.22/dist/js/uikit-icons.min.js\"></script>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/css/uikit.min.css\" />",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit.min.js\"></script>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit-icons.min.js\"></script>",
     "</head>",
     "<body>",
     "    <h1>UI Kit Page Template</h1>",
@@ -537,13 +537,13 @@
     "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />",
     "    <title>USWDS Page Template</title>",
     "    <!-- https://designsystem.digital.gov/components/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/uswds/2.11.1/css/uswds.min.css\" />",
+    "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/uswds/2.13.0/css/uswds.min.css\" />",
     "</head>",
     "",
     "<body>",
     "    <h1>USWDS Page Template</h1>",
     "    <p>[INSERT CONTENT HERE]</p>",
-    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/uswds/2.11.1/js/uswds.min.js\"></script>",
+    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/uswds/2.13.0/js/uswds.min.js\"></script>",
     "</body>",
     "",
     "</html>"
@@ -659,23 +659,23 @@
     "prefix": "gns-add-genesys-full",
     "body": [
       "<!-- START: Add Genesys (Full) Design Kit =========================== -->",
-      "<script defer src=\"https://use.fontawesome.com/releases/v5.0.3/js/all.js\"></script>",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.min.css\">",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.es5.min.js\"></script>",
+      "<script defer src=\"https://use.fontawesome.com/releases/v5.15.4/js/all.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.4/mavo.min.css\">",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.4/mavo.es5.min.js\"></script>",
       "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/introjs.min.css\"/>",
       "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/intro.min.js\"></script>",
-      "<link rel=\"stylesheet\" href=\"../../components/polypage/skins/default.css\"/>",
-      "<script src=\"../../components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
-      "<script src=\"../../components/polypage/lib/events.polypage.jquery.js\"></script>",
-      "<script src=\"../../components/polypage/lib/cookie.polypage.jquery.js\"></script>",
-      "<script src=\"../../components/polypage/lib/gui.polypage.jquery.js\"></script>",
-      "<script src=\"../../components/polypage/lib/keyboard.polypage.jquery.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/skins/default.css\"/>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+      "<script src=\"https://github.com/SSAgov/genesys/blob/main/components/polypage/lib/events.polypage.jquery.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/cookie.polypage.jquery.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/gui.polypage.jquery.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/keyboard.polypage.jquery.js\"></script>",
       "<script type=\"text/javascript\" charset=\"utf-8\">",
       "  $(document).ready(function() {",
       "    $('body').polypage();",
       "  });",
       "</script>",
-      "<script src=\"https://github.com/SSAgov/genesys/components/ab-testing/simpleab.min.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/ab-testing/simpleab.min.js\"></script>",
       "<script>",
       "   $(document).ready(function(){",
       "        $.simpleAB({",
@@ -686,8 +686,8 @@
       "   });",
       "</script>",
       "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/gremlins.js/0.1.0/gremlins.min.js\"></script>",
-      "<link href=\"https://github.com/SSAgov/genesys/components/genesys/genesys.css\" rel=\"stylesheet\" />",
-      "<script src=\"https://github.com/SSAgov/genesys/components/genesys/genesys.js\"></script>",
+      "<link href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/genesys/genesys.css\" rel=\"stylesheet\" />",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/genesys/genesys.js\"></script>",
       "<!-- END:   Add Genesys (Full) Design Kit =========================== -->"
     ],
     "description": "Add all Genesys prototyping libraries to this page"
@@ -697,8 +697,8 @@
     "prefix": "gns-add-genesys-lite",
     "body": [
       "<!-- START: Add Genesys (Lite) Design Kit =========================== -->",
-      "<link href=\"https://github.com/SSAgov/genesys/components/genesys/genesys.css\" rel=\"stylesheet\" />",
-      "<script src=\"https://github.com/SSAgov/genesys/components/genesys/genesys.js\"></script>",
+      "<link href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/genesys/genesys.css\" rel=\"stylesheet\" />",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/genesys/genesys.js\"></script>",
       "<!-- END:   Add Genesys Design Kit =========================== -->"
     ],
     "description": "Add the Genesys(Lite) Design Kit to this page"
@@ -719,12 +719,12 @@
     "prefix": "gns-add-roles",
     "body": [
       "<!-- START: Add User Roles (PolyPage) Library =========================== -->",
-      "<link rel=\"stylesheet\" href=\"https://github.com/SSAgov/genesys/components/polypage/skins/default.css\"/>",
-      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
-      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/events.polypage.jquery.js\"></script>",
-      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/cookie.polypage.jquery.js\"></script>",
-      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/gui.polypage.jquery.js\"></script>",
-      "<script src=\"https://github.com/SSAgov/genesys/components/polypage/lib/keyboard.polypage.jquery.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/skins/default.css\"/>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
+      "<script src=\"https://github.com/SSAgov/genesys/blob/main/components/polypage/lib/events.polypage.jquery.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/cookie.polypage.jquery.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/gui.polypage.jquery.js\"></script>",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/keyboard.polypage.jquery.js\"></script>",
       "<script type=\"text/javascript\" charset=\"utf-8\">",
       "  $(document).ready(function() {",
       "    $('body').polypage();",
@@ -739,7 +739,7 @@
     "prefix": "gns-add-ab-testing",
     "body": [
       "<!-- START: A/B Testing Library ============================ -->",
-      "<script src=\"https://github.com/SSAgov/genesys/components/ab-testing/simpleab.min.js\"></script>  ",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/ab-testing/simpleab.min.js\"></script>  ",
       "<!-- END:   A/B Testing Library ============================ -->"
     ],
     "description": "Add the Genesys A/B Testing Library to your page's HEAD section.\n"
@@ -809,7 +809,7 @@
     "prefix": "gns-add-bootstrap-4",
     "body": [
       "<!-- START: Bootstrap 4 ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.1/css/bootstrap.min.css\"/>",
       "<!-- END:   Bootstrap 4 ==================================================== -->"
     ],
     "description": "Add the Bootstrap 4 CSS."
@@ -848,19 +848,10 @@
     "prefix": "gns-add-mdesignsystem",
     "body": [
       "<!-- M-Design System: https://m-docs.org/ -->",
-      "<link href=\"https://unpkg.com/m-@1.2.4/dist/min.css\" rel=\"stylesheet\">",
-      "<script src=\"https://unpkg.com/m-@1.2.4/dist/min.js\" defer></script>"
+      "<link href=\"https://unpkg.com/m-@1.4.0/dist/min.css\" rel=\"stylesheet\">",
+      "<script src=\"https://unpkg.com/m-@1.4.0/dist/min.js\" defer></script>"
     ],
     "description": "Add the M-Design System to your page's HEAD section.\n\nSee mdocs.org for full reference info."
-  },
-
-  "Genesys: Pure Design System": {
-    "prefix": "gns-add-pure",
-    "body": [
-      "<!-- Pure.css : https://purecss.io/ -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/purecss@2.0.6/build/pure-min.css\" integrity=\"sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5\" crossorigin=\"anonymous\">"
-    ],
-    "description": "Add the Pure.css Design System to your page's HEAD section.\n\nSee purecss.io for full reference info."
   },
 
   "Genesys: Pure Design System": {
@@ -876,7 +867,7 @@
     "prefix": "gns-add-tachyons",
     "body": [
       "<!-- START: Tachyons CSS Toolkit ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tachyons@4.7.0/css/tachyons.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tachyons@4.11.1/css/tachyons.min.css\"/>",
       "<!-- END:   Tachyons CSS Toolkit ==================================================== -->"
     ],
     "description": "Add the Tachyons CSS Toolkit to your page's HEAD section.\n\nSee Tachyons.io for full reference info."
@@ -886,7 +877,7 @@
     "prefix": "gns-add-tailwind",
     "body": [
       "<!-- START: Tailwind CSS ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css\"/>"
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tailwindcss@^2.2.19/dist/tailwind.min.css\"/>"
     ],
     "description": "Add the Tailwind CSS library to your page's HEAD section.\n\nSee TailwindCSS.com for full reference info."
   },
@@ -895,7 +886,7 @@
     "prefix": "gns-add-uilang",
     "body": [
       "\"<!-- UILang ============================================= -->\",",
-      "\"<script src=\\\"path-to-uilang.js\\\"></script>\","
+      "\"<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/interaction/uilang.js\"></script>\","
     ],
     "description": "Add the UILang Library to your page's HEAD section.\n\nSee http://uilang.com/ for download and documentation."
   },
@@ -904,7 +895,7 @@
     "prefix": "gns-add-basscss",
     "body": [
       "<!-- START: Basscss Low-Level Toolkit ============================================= -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/basscss@8.0.2/css/basscss.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/basscss@8.1.0/css/basscss.min.css\"/>",
       "<!-- END:   Basscss Low-Level Toolkit ============================================= -->"
     ],
     "description": "Add the Basscss CSS Low-Level Toolkit to your page's HEAD section.\n\nSee Basscss.com for full reference info."
@@ -920,22 +911,12 @@
     "description": "Add the Bulma CSS Framework to your page's HEAD section.\n\nSee https://bulma.io/ for full reference info."
   },
 
-  "Genesys: Fractures Atomic CSS Toolkit": {
-    "prefix": "gns-add-fractures",
-    "body": [
-      "<!-- START: Fractures CSS Toolkit ============================================= -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/fractures@1.3.0/dist/fractures.prefixed.min.css\"/>",
-      "<!-- END:   Fractures CSS Toolkit ============================================= -->"
-    ],
-    "description": "Add the Fractures Atomic CSS Toolkit to your page's HEAD section.\n\nSee https://fractures.space for full reference info."
-  },
-
   "Genesys: Persistence (Mavo)": {
     "prefix": "gns-add-persistence",
     "body": [
       "<!-- START: Mavo Library ============================== -->",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.min.css\">",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.1/mavo.es5.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.4/mavo.min.css\">",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.4/mavo.es5.min.js\"></script>",
       "<!-- END:   Mavo Library ============================== -->"
     ],
     "description": "Add the Mavo persistence library to your page's HEAD section.\n\nSee https://mavo.io/ for full reference info."
@@ -975,7 +956,7 @@
     "prefix": "gns-add-font-awesome",
     "body": [
       "<!-- START: Font Awesome ============================== -->",
-      "<script defer src=\"https://use.fontawesome.com/releases/v5.0.3/js/all.js\"></script>",
+      "<script defer src=\"https://use.fontawesome.com/releases/v5.15.4/js/all.js\"></script>",
       "<!-- END:   Font Awesome ============================== -->"
     ],
     "description": "Add Font Awesome 5 library in HEAD section."
@@ -993,7 +974,7 @@
     "prefix": "gns-add-diagram-library",
     "body": [
       "<!-- START: Charting & Diagramming Library -->",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.5/mermaid.min.js\"></script>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.8/mermaid.min.js\"></script>",
       "<script>mermaid.initialize({startOnLoad:true});</script>",
       "<!-- END:   Charting & Diagramming Library -->"
     ],
@@ -1016,7 +997,7 @@
     "prefix": "gns-add-animation",
     "body": [
       "<!-- START: Animate.css & AniJS Libraries ============================== -->",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css\">",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css\">",
       "<link rel=\"stylesheet\" href=\"https://anijs.github.io/lib/anicollection/anicollection.css\">",
       "<script src=\"https://anijs.github.io/lib/anijs/anijs-min.js\"></script>",
       "<!-- END:   Animate.css & AniJS Libraries ============================== -->"
@@ -1078,8 +1059,8 @@
     "prefix": "gns-add-note-library",
     "body": [
       "<!-- START: Genesys Notation Library ======================================= -->",
-      "<link rel=\"stylesheet\" href=\"../components/annotation/jquery.postitall.css\">",
-      "<script src=\"../components/annotation/jquery.postitall.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/annotation/jquery.postitall.css\">",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/annotation/jquery.postitall.js\"></script>",
       "<!-- END :  Genesys Notation Library ======================================= -->"
     ],
     "description": "Genesys: Add Notation Library/nMust be added after jQuery. Place this right before the closing BODY tag."
