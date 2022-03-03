@@ -56,7 +56,7 @@ gns-add-page-testing | Add automated page testing using Gremlins
 gns-add-persistence | Add the Persistence library (Mavo)
 gns-add-roles | Add the User Roles (PolyPage) library
 gns-add-tachyons | Add the Tachyons CSS Toolkit
-gns-add-tailwin | Add the Tailwind CSS framework
+gns-add-tailwind | Add the Tailwind CSS framework
 gns-add-turret | Add the Turret CSS Framework
 gns-add-uilang | Add the UILang library
 gns-add-walkthru | Add Intro.js library
@@ -88,6 +88,12 @@ gns-button | Button
 gns-header | Heading Level (1-6)
 gns-link | Hyperlink
 gns-icon | Icon (Font Awesome)
+
+**Including Master Page Components**
+
+Trigger | Description
+------- | -----------
+gns-include | Include a partial, reusable page component
 
 **Virtual Pages**
 
