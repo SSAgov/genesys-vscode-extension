@@ -2,6 +2,7 @@
 ================
 
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+![License](https://img.shields.io/github/license/SSAgov/genesys-vscode-extension.svg)
 
 A set of Genesys Snippets for Visual Studio Code.
 
