@@ -30,14 +30,14 @@
     "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
     "    <title>Bootstrap 3 Page Template</title>",
-    "    <!-- https://getbootstrap.com/docs/3.3/components/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\">",
+    "    <!-- https://getbootstrap.com/docs/3.4/components/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css\">",
     "  </head>",
     "  <body>",
     "    <h1>Basic Bootstrap 3 Template</h1>",
     "    <p>[INSERT PAGE CONTENT]</p>",
-    "    <script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js\"></script>",
-    "    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js\"></script>",
+    "    <script src=\"https://code.jquery.com/jquery-1.12.4.min.js\"></script>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js\"></script>",
     "  </body>",
     "</html>"
   ],
@@ -54,15 +54,14 @@
     "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
     "    <title>Bootstrap 4 Page Template</title>",
-    "    <!-- https://getbootstrap.com/docs/4.0/components/alerts/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.1/css/bootstrap.min.css\">",
+    "    <!-- https://getbootstrap.com/docs/4.6/components/alerts/ -->",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css\">",
     "  </head>",
     "  <body>",
     "    <h1>Bootstrap 4 Page Template</h1>",
     "    <p>[INSERT PAGE CONTENT</p>",
     "    <script src=\"https://code.jquery.com/jquery-3.5.1.slim.min.js\"></script>",
-    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.1/umd/popper.min.js\"></script>",
-    "    <script src=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.1/js/bootstrap.min.js\"></script>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js\"></script>",
     "  </body>",
     "</html>"
   ],
@@ -78,7 +77,7 @@
     "    <meta charset=\"utf-8\">",
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1, shrink-to-fit=no\">",
     "    <title>Bootstrap 5 Page Template</title>",
-    "    <!-- https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/ -->",
+    "    <!-- https://v5.getbootstrap.com/docs/5.1/getting-started/introduction/ -->",
     "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css\">",
     "  </head>",
     "  <body>",
@@ -101,7 +100,7 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
     "    <title>Bulma Page Template</title>",
     "    <!-- https://bulma.io/documentation/ -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css\">",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css\">",
     "    <script defer src=\"https://use.fontawesome.com/releases/v5.15.4/js/all.js\"></script>",
     "  </head>",
     "  <body>",
@@ -173,7 +172,7 @@
     "<head>",
     "    <meta charset=\"utf-8\">",
     "    <title>Pure.css Basic Page Template</title>",
-    "    <link href=\"https://unpkg.com/purecss@2.0.6/build/pure-min.css\" rel=\"stylesheet\">",
+    "    <link href=\"https://unpkg.com/purecss@2.1.0/build/pure-min.css\" rel=\"stylesheet\">",
     "</head>",
     "",
     "<!-- See https://purecss.io/ for Pure.css documentation -->",
@@ -198,17 +197,17 @@
     "        <title>New Material Design Bootstrap Page Template</title>",
     "        <!-- https://mdbootstrap.com/ -->",
     "        <!-- Font Awesome -->",
-    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css\" rel=\"stylesheet\" />",
+    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css\" rel=\"stylesheet\" />",
     "        <!-- Google Fonts -->",
     "        <link href=\"https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap\" rel=\"stylesheet\" />",
     "        <!-- MDB -->",
-    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.css\" rel=\"stylesheet\" />",
+    "        <link href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.1.0/mdb.min.css\" rel=\"stylesheet\" />",
     "    </head>",
     "    <body>",
     "        <h1>Material Design Bootstrap Page Template</h1>",
     "        <p>[INSERT YOUR CONTENT]</p>",
     "        <!-- MDB -->",
-    "        <script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.1/mdb.min.js\"></script>",
+    "        <script type=\"text/javascript\" src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.1.0/mdb.min.js\"></script>",
     "    </body>",
     "</html>"
   ],
@@ -252,6 +251,8 @@
     "    <title>Material Design Page Template</title>",
     "    <!-- https://material.io/develop/web -->",
     "    <link rel=\"stylesheet\" href=\"https://unpkg.com/material-components-web@latest/dist/material-components-web.min.css\">",
+    "    <link href=\"https://fonts.googleapis.com/icon?family=Material+Icons\" rel=\"stylesheet\" />",
+    "    <script src=\"https://unpkg.com/material-components-web@latest/dist/material-components-web.min.js\"></script>",
     "  </head>",
     "  <body>",
     "    <h1 class=\"mdc-typography--display1\">Material Design Page Template</h1>",
@@ -358,8 +359,8 @@
     "    <head>",
     "        <title>Presentation Page Template</title>",
     "        <!-- https://revealjs.com/ -->",
-    "        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.css\">",
-    "        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/theme/black.min.css\">",
+    "        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.css\">",
+    "        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/black.min.css\">",
     "    </head>",
     "    <body>",
     "        <div class=\"reveal\">",
@@ -369,7 +370,7 @@
     "                <section>Slide 3</section>",
     "            </div>",
     "        </div>",
-    "        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.2.1/reveal.min.js\"></script>",
+    "        <script src=\"https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.min.js\"></script>",
     "        <script>",
     "            Reveal.initialize();",
     "        </script>",
@@ -411,7 +412,7 @@
     "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
     "    <title>Tailwind Page Template</title>",
     "    <!-- https://tailwindcss.com/ -->",
-    "    <link href=\"https://unpkg.com/tailwindcss@^2.2.19/dist/tailwind.min.css\" rel=\"stylesheet\">",
+    "    <link href=\"https://unpkg.com/tailwindcss@^3.0.24/dist/tailwind.min.css\" rel=\"stylesheet\">",
     "</head>",
     "<body>",
     "    <h1>Tailwind Page Template</h1>",
@@ -422,13 +423,19 @@
   "description": "New Tailwind CSS Page"
 },
 
+"Include a partial, reusable page component": {
+  "prefix": "gns-include",
+  "body": [
+    "<html-include src=\"${0:insert-partial-html-page-name}.html\"></html-include>"
+  ],
+  "description": "Include a partial, reusable page component"
+},
+
 "New Sitemap": {
   "prefix": "!!sitemap",
   "body": [
     "<!doctype html>",
-    "",
     "<html lang=\"en\">",
-    "",
     "<head>",
     "	<meta charset=\"utf-8\">",
     "	<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">",
@@ -513,9 +520,9 @@
     "    <meta charset=\"UTF-8\">",
     "    <title>UI Kit Page Template</title>",
     "    <!-- https://getuikit.com/docs/accordion -->",
-    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/css/uikit.min.css\" />",
-    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit.min.js\"></script>",
-    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.10.0/dist/js/uikit-icons.min.js\"></script>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/css/uikit.min.css\" />",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/js/uikit.min.js\"></script>",
+    "    <script src=\"https://cdn.jsdelivr.net/npm/uikit@3.14.1/dist/js/uikit-icons.min.js\"></script>",
     "</head>",
     "<body>",
     "    <h1>UI Kit Page Template</h1>",
@@ -662,8 +669,8 @@
       "<script defer src=\"https://use.fontawesome.com/releases/v5.15.4/js/all.js\"></script>",
       "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.4/mavo.min.css\">",
       "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mavo/0.2.4/mavo.es5.min.js\"></script>",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/introjs.min.css\"/>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/intro.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/5.1.0/introjs.min.css\"/>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/5.1.0/intro.min.js\"></script>",
       "<link rel=\"stylesheet\" href=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/skins/default.css\"/>",
       "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/polypage/lib/polypage.jquery.js\" type=\"text/javascript\" charset=\"utf-8\"></script>",
       "<script src=\"https://github.com/SSAgov/genesys/blob/main/components/polypage/lib/events.polypage.jquery.js\"></script>",
@@ -708,8 +715,8 @@
     "prefix": "gns-add-walkthru",
     "body": [
       "<!-- START: Add Intro.js Library =========================== -->",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/introjs.min.css\"/>",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/4.3.0/intro.min.js\"></script>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/5.1.0/introjs.min.css\"/>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/intro.js/5.1.0/intro.min.js\"></script>",
       "<!-- END:   Add Intro.js Library =========================== -->"
     ],
     "description": "Add the Intro.js library to this page"
@@ -799,7 +806,7 @@
     "prefix": "gns-add-bootstrap-3",
     "body": [
       "<!-- START: Bootstrap 3 ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css\"/>",
       "<!-- END:   Bootstrap 3 ==================================================== -->"
     ],
     "description": "Add the Bootstrap 3 CSS."
@@ -809,7 +816,7 @@
     "prefix": "gns-add-bootstrap-4",
     "body": [
       "<!-- START: Bootstrap 4 ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://maxcdn.bootstrapcdn.com/bootstrap/4.6.1/css/bootstrap.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/css/bootstrap.min.css\"/>",
       "<!-- END:   Bootstrap 4 ==================================================== -->"
     ],
     "description": "Add the Bootstrap 4 CSS."
@@ -831,13 +838,13 @@
       "/>",
       "<!-- MDB -->",
       "<link",
-      "  href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.css\"",
+      "  href=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.1.0/mdb.min.css\"",
       "  rel=\"stylesheet\"",
       "/>",
       "<!-- MDB -->",
       "<script",
       "  type=\"text/javascript\"",
-      "  src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.6.0/mdb.min.js\"",
+      "  src=\"https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/4.1.0/mdb.min.js\"",
       "></script>",
       "<!-- END: Material Design Bootstrap ====================================== -->"
     ],
@@ -858,7 +865,7 @@
     "prefix": "gns-add-pure",
     "body": [
       "<!-- Pure.css : https://purecss.io/ -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/purecss@2.0.6/build/pure-min.css\" integrity=\"sha384-Uu6IeWbM+gzNVXJcM9XV3SohHtmWE+3VGi496jvgX1jyvDTXfdK+rfZc8C1Aehk5\" crossorigin=\"anonymous\">"
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/purecss@2.1.0/build/pure-min.css\">"
     ],
     "description": "Add the Pure.css Design System to your page's HEAD section.\n\nSee purecss.io for full reference info."
   },
@@ -867,7 +874,7 @@
     "prefix": "gns-add-tachyons",
     "body": [
       "<!-- START: Tachyons CSS Toolkit ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tachyons@4.11.1/css/tachyons.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css\"/>",
       "<!-- END:   Tachyons CSS Toolkit ==================================================== -->"
     ],
     "description": "Add the Tachyons CSS Toolkit to your page's HEAD section.\n\nSee Tachyons.io for full reference info."
@@ -877,7 +884,7 @@
     "prefix": "gns-add-tailwind",
     "body": [
       "<!-- START: Tailwind CSS ==================================================== -->",
-      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tailwindcss@^2.2.19/dist/tailwind.min.css\"/>"
+      "<link rel=\"stylesheet\" href=\"https://unpkg.com/tailwindcss@^3.0.24/dist/tailwind.min.css\"/>"
     ],
     "description": "Add the Tailwind CSS library to your page's HEAD section.\n\nSee TailwindCSS.com for full reference info."
   },
@@ -905,7 +912,7 @@
     "prefix": "gns-add-bulma",
     "body": [
       "<!-- START: Bulma CSS Framework ============================================= -->",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.1/css/bulma.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bulma/0.9.4/css/bulma.min.css\"/>",
       "<!-- END:   Bulma CSS Framework ============================================= -->"
     ],
     "description": "Add the Bulma CSS Framework to your page's HEAD section.\n\nSee https://bulma.io/ for full reference info."
@@ -946,7 +953,7 @@
     "prefix": "gns-add-turret",
     "body": [
       "<!-- START: Turret CSS Framework ============================== -->",
-      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/4.0.0/turret.min.css\"/>",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/bigfishtv-turret/5.2.1/turret.min.css\"/>",
       "<!-- END:   Turret Atomic CSS Framework ============================== -->"
     ],
     "description": "Add the Turret CSS Framework to your page's HEAD section.\n\nSee TurretCSS.com for full reference info."
@@ -974,7 +981,7 @@
     "prefix": "gns-add-diagram-library",
     "body": [
       "<!-- START: Charting & Diagramming Library -->",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.13.8/mermaid.min.js\"></script>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.1.1/mermaid.min.js\"></script>",
       "<script>mermaid.initialize({startOnLoad:true});</script>",
       "<!-- END:   Charting & Diagramming Library -->"
     ],
@@ -1010,7 +1017,7 @@
     "body": [
       "<!-- START: Image Placeholder ================================================================= -->",
       "<img src=\"https://satyr.io/?width=${1:100}&height=${2:100}&text=${0:Placeholder}&texture=cross\" />",
-      "<!-- END:   Image Placeholder ================================================================= -->",
+      "<!-- END:   Image Placeholder ================================================================= -->"
     ],
     "description": "Genesys: Image Placeholder"
   },
@@ -1020,7 +1027,7 @@
     "body": [
       "<!-- START: Genesys Block Placeholder ================================================================= -->",
       "<div style=\"width: ${1:100%};height: ${2:auto};padding:${3:2px 4px};background-color:${4:silver};color:${5:black};font-size:${6:inherit}\">${0:Your Content Here}</div>",
-      "<!-- END: Genesys Block Placeholder ================================================================= -->",
+      "<!-- END: Genesys Block Placeholder ================================================================= -->"
     ],
     "description": "Genesys: Block Placeholder"
   },
