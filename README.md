@@ -152,6 +152,7 @@ gns-notes | Display the page with all (any) page notes/annotations visible
 gns-redact | Display the page with all fake/realistic data redacted
 gns-test | Display the page with automated interactive tests running
 gns-walkthru | Display the page with the automated Walthru feature activated (if present)
+gns-toolbar-hide | Hide the Genesys Toolbar
 gns-footer-hide | Hide the Genesys Page Footer
 
 Genesys Object Settings
