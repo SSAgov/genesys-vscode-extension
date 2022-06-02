@@ -892,8 +892,8 @@
   "Genesys: Add UILang Library": {
     "prefix": "gns-add-uilang",
     "body": [
-      "\"<!-- UILang ============================================= -->\",",
-      "\"<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/interaction/uilang.js\"></script>\","
+      "<!-- UILang ============================================= -->",
+      "<script src=\"https://raw.githubusercontent.com/SSAgov/genesys/main/components/interaction/uilang.js\"></script>"
     ],
     "description": "Add the UILang Library to your page's HEAD section.\n\nSee http://uilang.com/ for download and documentation."
   },
