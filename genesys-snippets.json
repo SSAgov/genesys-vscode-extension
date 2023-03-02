@@ -116,6 +116,29 @@
   "description": "New Bulma Page"
 },
 
+"Microsoft Fluent UI Web Components Page": {
+  "prefix": "!!fluent",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "    <title>Microsoft Fluent UI Web Components Page</title>",
+    "    <script type=\"module\" src=\"https://unpkg.com/@fluentui/web-components\"></script>",
+    "</head>",
+    "<body>",
+    "    <h1>Microsoft Fluent UI Web Components Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "    <fluent-button>Hello world</fluent-button>",
+    "</body>",
+    "</html>",
+    ""
+  ],
+  "description": "Microsoft Fluent UI Web Components Page"
+},
+
 "New Foundation Page": {
   "prefix": "!!foundation",
   "body": [
@@ -160,6 +183,28 @@
     "</html>"
   ],
   "description": "New Ionic Page"
+},
+
+"New Metro UI Page": {
+  "prefix": "!!metro",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "  <head>",
+    "    <meta charset=\"utf-8\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no\">",
+    "    <title>Metro UI Page Template</title>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.korzh.com/metroui/v4/css/metro-all.min.css\">",
+    "  </head>",
+    "  <body>",
+    "    <h1>Metro UI Page Template</h1>",
+    "    <p>{Insert your content here}</p>",
+    "    <!-- Metro UI -->",
+    "    <script src=\"https://cdn.korzh.com/metroui/v4/js/metro.min.js\"></script>",
+    "  </body>",
+    "</html>"
+  ],
+  "description": "New Metro UI Page"
 },
 
 "New Pure.css Page": {
@@ -351,6 +396,34 @@
   "description": "New PaperCSS Page"
 },
 
+"Redhat PatternFly Page": {
+  "prefix": "!!patternfly",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <title>PatternFly Page Template</title>",
+    "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/css/patternfly.min.css\" />",
+    "    <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/css/patternfly-additions.min.css\" />",
+    "</head>",
+    "<body>",
+    "    <h1>Redhat PatternFly Page</h1>",
+    "    <div class=\"alert alert-success\">",
+    "        <span class=\"pficon pficon-ok\"></span>",
+    "        <strong>Great job!</strong> PatternFly is ready to go.",
+    "    </div>",
+    "    <p>[INSERT PAGE CONTENT</p>",
+    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js\"></script>",
+    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js\"></script>",
+    "    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/js/patternfly.min.js\"></script>",
+    "</body>",
+    "</html>",
+    ""
+  ],
+  "description": "Redhat PatternFly Page"
+},
+
 "New Reveal Presentation": {
   "prefix": "!!reveal",
   "body": [
@@ -399,6 +472,29 @@
     "</html>"
   ],
   "description": "New Semantic UI Page"
+},
+
+"New Shoelace Web Components Page": {
+  "prefix": "!!shoelace",
+  "body": [
+    "<!DOCTYPE html>",
+    "<html lang=\"en\">",
+    "<head>",
+    "    <meta charset=\"UTF-8\">",
+    "    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
+    "    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
+    "    <title>Shoelace Web Components Page</title>",
+    "    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.2.0/dist/themes/light.css\" />",
+    "    <script type=\"module\" src=\"https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.2.0/dist/shoelace.js\"></script>",
+    "</head>",
+    "<body>",
+    "    <h1>Shoelace Web Components Page Template</h1>",
+    "    <p>[INSERT CONTENT HERE]</p>",
+    "    <sl-button>Click me</sl-button>",
+    "</body>",
+    "</html>"
+  ],
+  "description": "New Shoelace Web Components Page"
 },
 
 
@@ -742,6 +838,25 @@
     "description": "Add the User Roles (PolyPage library) functionality to this page"
   },
 
+  "Genesys: Add Shoelace Web Component Library": {
+    "prefix": "gns-add-shoelace",
+    "body": [
+      "<!-- Shoelace Web Components: https://shoelace.style/ -->",
+      "<link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.2.0/dist/themes/light.css\" />",
+      "<script type=\"module\" src=\"https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.2.0/dist/shoelace.js\"></script>"
+    ],
+    "description": "Genesys: Add Shoelace Web Component Library"
+  },
+
+  "Genesys: Add Metro UI Framework": {
+    "prefix": "gns-add-metro",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://cdn.korzh.com/metroui/v4.5.1/css/metro-all.min.css\">",
+      "<script src=\"https://cdn.korzh.com/metroui/v4/js/metro.min.js\"></script>"
+    ],
+    "description": "Genesys: Add Metro UI Framework"
+  },
+
   "Genesys: A/B Testing Library": {
     "prefix": "gns-add-ab-testing",
     "body": [
@@ -789,6 +904,16 @@
       "<!-- END: Automatic Page Testing (Gremlins) -->"
     ],
     "description": "Genesys: Add Automatic Page Testing (Gremlins)"
+  },
+
+  "Genesys: Add Redhat PatternFly Library": {
+    "prefix": "gns-add-patternfly",
+    "body": [
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/css/patternfly.min.css\" />",
+      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/patternfly/4.0.0-rc.1/css/patternfly-additions.min.css\" />",
+      ""
+    ],
+    "description": "Genesys: Add Redhat PatternFly Library"
   },
 
   "Genesys: Atlassian Design": {
@@ -968,6 +1093,14 @@
     "description": "Add Font Awesome 5 library in HEAD section."
   },
 
+  "Genesys: Add Fluent UI Web Components": {
+    "prefix": "gns-add-fluent",
+    "body": [
+      "<script type=\"module\" src=\"https://unpkg.com/@fluentui/web-components\"></script>"
+    ],
+    "description": "Genesys: Add Fluent UI Web Components"
+  },
+
   "Genesys: Add Font Awesome Icon": {
     "prefix": "gns-icon",
     "body": [
@@ -980,7 +1113,7 @@
     "prefix": "gns-add-diagram-library",
     "body": [
       "<!-- START: Charting & Diagramming Library -->",
-      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.1.1/mermaid.min.js\"></script>",
+      "<script src=\"https://cdnjs.cloudflare.com/ajax/libs/mermaid/9.4.0/mermaid.min.js\"></script>",
       "<script>mermaid.initialize({startOnLoad:true});</script>",
       "<!-- END:   Charting & Diagramming Library -->"
     ],
