@@ -24,17 +24,21 @@ Trigger | Description | Documentation
 !!bs5 | Bootstrap 5 page | https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/
 !!bulma | Bulma page | https://bulma.io/documentation/
 !!fabric | Microsoft Fabric page | https://developer.microsoft.com/en-us/fluentui#/controls/web
+!!fluent | Microsoft Fluent page | https://learn.microsoft.com/en-us/fluent-ui/web-components/
 !!foundation| Foundation page | https://get.foundation/sites/docs/
 !!ionic | Ionic page | https://ionicframework.com/docs/components
+!!patternfly | Red Hat PatternFly page | https://www.patternfly.org/v4/
 !!pure | Pure.css page | https://purecss.io/
 !!mdb | Material Design Bootstrap page | https://mdbootstrap.com/
 !!mds | M-Design System page | https://m-docs.org/
 !!material | Material Design page | https://material.io/components
 !!material-lite | Material Design Lite page | https://getmdl.io/components/index.html
 !!materialize |  Materialize page | https://materializecss.com/
+!!metro | Metro UI page | https://metroui.org.ua/intro.html
 !!paper | PaperCSS page | https://www.getpapercss.com/
 !!reveal | Reveal.js presentation | https://revealjs.com/
 !!semantic | Semantic UI page | https://semantic-ui.com/
+!!shoelace | Shoelace Web Components page | https://shoelace.style/
 !!tailwind | Tailwind CSS page | https://tailwindcss.com/
 !!uikit | UIKit page | https://getuikit.com/docs/introduction
 !!vue | Vue.js page | https://vuejs.org/v2/guide/
@@ -52,15 +56,19 @@ gns-add-atlas | Add the Atlassian Design System
 gns-add-basscss | Add the Basscss CSS Low-Level Toolkit
 gns-add-bulma | Add the Bulma CSS Framework
 gns-add-diagram-library | Add the Flowchart & Diagramming Library (Mermaid)
+gns-add-fluent | Add the Microsoft Fluent UI Web Component library
 gns-add-font-awesome | Add the Font Awesome icon library
 gns-add-mdbootstrap | Add the Material Design Bootstrap library
 gns-add-mdesignsystem | Add the M-Design System Web Component library
+gns-add-metro | Add the Microsoft-based Metro UI library
 gns-add-modulz | Add the Modulz CSS library
 gns-add-paper | Add the Paper CSS library
+gns-add-patternfly | Add the Red Hat PatterFly library
 gns-add-pure | Add the Pure.css library
 gns-add-page-testing | Add automated page testing using Gremlins
 gns-add-persistence | Add the Persistence library (Mavo)
 gns-add-roles | Add the User Roles (PolyPage) library
+gns-add-shoelace | Add the Shoelace Web Component library
 gns-add-tachyons | Add the Tachyons CSS Toolkit
 gns-add-tailwind | Add the Tailwind CSS framework
 gns-add-turret | Add the Turret CSS Framework
